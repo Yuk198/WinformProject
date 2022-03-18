@@ -10,19 +10,23 @@ namespace LTW_BTL
 {
     class ThucAnDAL
     {
-        DataConnection dc;
+        string ketnoi = "Data Source=SLEEPWALKER0416\\MSSQLSERVER01; " +
+                        " Initial Catalog=QLCUAHANG; " +
+                        " Integrated Security=True";
+        SqlConnection con = null;
         SqlDataAdapter da;
         SqlCommand cmd;
         public ThucAnDAL()
         {
-            dc = new DataConnection();
+            con = new SqlConnection(ketnoi);
+            con.Open();
         }
         public DataTable getALLThucAn()
         {
             //B1: Tạo câu lệnh sql để lấy toàn bộ thức ăn
             string sql = "SELECT *FROM tblThucAn";
             //B2: Tạo 1 kết nối đến SQL
-            SqlConnection con = dc.getConnect();
+            con = new SqlConnection(ketnoi);
             //B3: Khởi tạo 1 đối tượng của lớp DataAdapter
             da = new SqlDataAdapter(sql, con);
             //B4: Mở kết nối 
@@ -40,7 +44,7 @@ namespace LTW_BTL
             try
             {
                 string sql = "INSERT INTO tblThucAn(MaMon, TenMon, SoLuong, DonGia) VALUES (@MaMon, @TenMon, @SoLuong, @DonGia)"; //Thêm kiểu tham số @
-                SqlConnection con = dc.getConnect();
+                con = new SqlConnection(ketnoi);
                 cmd = new SqlCommand(sql, con);
                 con.Open();
                 cmd.Parameters.Add("@MaMon", SqlDbType.NVarChar).Value = thucan.MaMon;
@@ -61,7 +65,7 @@ namespace LTW_BTL
             try
             {
                 string sql = "UPDATE tblThucAn SET  MaMon = @MaMon, TenMon=@TenMon, SoLuong=@Soluong, DonGia= @DonGia WHERE MaMon=@MaMon";
-                SqlConnection con = dc.getConnect();
+                con = new SqlConnection(ketnoi);
                 cmd = new SqlCommand(sql, con);
                 con.Open();
                 cmd.Parameters.Add("@MaMon", SqlDbType.NVarChar).Value = thucan.MaMon;
@@ -83,7 +87,7 @@ namespace LTW_BTL
             try
             {
                 string sql = "DELETE tblThucAn WHERE MaMon=@MaMon";
-                SqlConnection con = dc.getConnect();
+                con = new SqlConnection(ketnoi);
                 cmd = new SqlCommand(sql, con);
                 con.Open();
                 cmd.Parameters.Add("@MaMon", SqlDbType.NVarChar).Value = thucan.MaMon;
