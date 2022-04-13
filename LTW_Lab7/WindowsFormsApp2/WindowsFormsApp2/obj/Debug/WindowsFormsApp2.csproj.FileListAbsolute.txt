@@ -1,0 +1,12 @@
+C:\Users\Nam\Documents\Nam\Baitap\CSharp\B5\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Nam\Documents\Nam\Baitap\CSharp\B5\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Nam\Documents\Nam\Baitap\CSharp\B5\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Nam\Documents\Nam\Baitap\CSharp\B5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Nam\Documents\Nam\Baitap\CSharp\B5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nam\Documents\Nam\Baitap\CSharp\B5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Nam\Documents\Nam\Baitap\CSharp\B5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Nam\Documents\Nam\Baitap\CSharp\B5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\Nam\Baitap\CSharp\B5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Nam\Documents\Nam\Baitap\CSharp\B5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Nam\Documents\Nam\Baitap\CSharp\B5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Nam\Documents\Nam\Baitap\CSharp\B5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainPrg.resources
