@@ -1,0 +1,21 @@
+E:\ThanhTD.03 V1\Sourecode\Bai37\Bai37\bin\Debug\Bai37.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai37\Bai37\bin\Debug\Bai37.exe
+E:\ThanhTD.03 V1\Sourecode\Bai37\Bai37\bin\Debug\Bai37.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai37\Bai37\obj\Debug\Bai37.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai37\Bai37\obj\Debug\Bai37.Form1.resources
+E:\ThanhTD.03 V1\Sourecode\Bai37\Bai37\obj\Debug\Bai37.Properties.Resources.resources
+E:\ThanhTD.03 V1\Sourecode\Bai37\Bai37\obj\Debug\Bai37.csproj.GenerateResource.Cache
+E:\ThanhTD.03 V1\Sourecode\Bai37\Bai37\obj\Debug\Bai37.exe
+E:\ThanhTD.03 V1\Sourecode\Bai37\Bai37\obj\Debug\Bai37.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai37\Bai37\obj\Debug\Bai37.frmThongTinNguoiDatVe.resources
+D:\demo\Sourecode_LapTrinhC#Trong5Tuan_CoBan\Bai37\Bai37\bin\Debug\Bai37.exe.config
+D:\demo\Sourecode_LapTrinhC#Trong5Tuan_CoBan\Bai37\Bai37\bin\Debug\Bai37.exe
+D:\demo\Sourecode_LapTrinhC#Trong5Tuan_CoBan\Bai37\Bai37\bin\Debug\Bai37.pdb
+D:\demo\Sourecode_LapTrinhC#Trong5Tuan_CoBan\Bai37\Bai37\obj\Debug\Bai37.csprojAssemblyReference.cache
+D:\demo\Sourecode_LapTrinhC#Trong5Tuan_CoBan\Bai37\Bai37\obj\Debug\Bai37.Form1.resources
+D:\demo\Sourecode_LapTrinhC#Trong5Tuan_CoBan\Bai37\Bai37\obj\Debug\Bai37.frmThongTinNguoiDatVe.resources
+D:\demo\Sourecode_LapTrinhC#Trong5Tuan_CoBan\Bai37\Bai37\obj\Debug\Bai37.Properties.Resources.resources
+D:\demo\Sourecode_LapTrinhC#Trong5Tuan_CoBan\Bai37\Bai37\obj\Debug\Bai37.csproj.GenerateResource.cache
+D:\demo\Sourecode_LapTrinhC#Trong5Tuan_CoBan\Bai37\Bai37\obj\Debug\Bai37.csproj.CoreCompileInputs.cache
+D:\demo\Sourecode_LapTrinhC#Trong5Tuan_CoBan\Bai37\Bai37\obj\Debug\Bai37.exe
+D:\demo\Sourecode_LapTrinhC#Trong5Tuan_CoBan\Bai37\Bai37\obj\Debug\Bai37.pdb
